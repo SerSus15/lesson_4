@@ -1,1 +1,0 @@
-print('Hello Danya from Seryoga!')
